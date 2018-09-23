@@ -1,0 +1,1 @@
+al principio se agregan todos los listeners
